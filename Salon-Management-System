@@ -1,0 +1,14 @@
+📄 Project Overview
+The Salon Management System is a web-based application designed to streamline and automate salon operations. It helps manage appointments, services, staff schedules, and client records efficiently.
+⚙️ Tech Stack
+Programming Languages:HTML, CSS,JavaScript, PHP
+Database: MySQL
+🚀 Features
+Appointment Scheduling: Book, update, and cancel client appointments.
+Service Management: Add and remove salon services with pricing details.
+Client Records: Store and manage client information and visit history.
+Staff Management: Assign shifts and roles to employees.
+Reporting: Generate daily and monthly reports on services offered and income
+
+
+Project link: https://github.com/odongograce/odongograce.github.io
