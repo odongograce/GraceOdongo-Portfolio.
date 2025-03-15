@@ -11,14 +11,14 @@ I'm a passionate cloud computing enthusiast with hands-on experience in AWS serv
 
 ## 🧰 Skills
 - **Cloud Computing:** AWS (EC2, S3, Lambda, CloudFormation)  
-- **Programming:** Python, SQL, JavaScript, Bash scripting  
+- **Programming:** PHP, Python, SQL, JavaScript, Bash scripting  
 - **Networking:** TCP/IP, DNS, VPN, Firewalls  
-- **Tools:** Git, GitHub, Visual Studio Code, Docker  
+- **Tools:** Git, GitHub, Visual Studio Code  
 
 ## 🌐 Projects
 1. **Salon Management System**  
    *A web-based app to automate salon operations.*  
-   - Built with Python, SQL, and JavaScript  
+   - Built with PHP, MySQL, and JavaScript  
    - Deployed on AWS EC2  
 
 2. **AWS re/Start Labs**  
